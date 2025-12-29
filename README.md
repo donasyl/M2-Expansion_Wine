@@ -1,6 +1,6 @@
 🍷 Wine Similarity and Clustering Analysis
 
-Author: Donasyl M. Aho, Casey Majewski, Noor Quershi, Madison Troutman, Nathan Temesgen
+Author: Donasyl M. Aho, Casey Majewski, Noor Qureshi, Madison Troutman, Nathan Temesgen
 Project Type: Network Analysis, Similarity Modeling, Unsupervised Learning
 Methods: Cosine Similarity, KMeans, Hierarchical Clustering, PCA
 
